@@ -5,3 +5,8 @@
 5) substitute players / Impact players.
 6) use recursive functions in next batsman selection.
 7) double bat / ball check, create recursive function now it has issue because i have used strucutures.
+8) balls and runs left in 2nd Inning
+9) bowling rules like wide,no ball etc
+10) match overview.
+11) team target graph
+12) best player of the match batter & bowler
