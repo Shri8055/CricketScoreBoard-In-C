@@ -1,0 +1,7 @@
+1) if else validations for heads and tails selection.
+2) add dialogies to comentrator.
+3) strike * not showing properly.
+4) for now i have created two arrays for storing runs and balls played or runs given by bowler and overs done so it will create problem when all rounder bats and baws.
+5) substitute players / Impact players.
+6) use recursive functions in next batsman selection.
+7) double bat / ball check, create recursive function now it has issue because i have used strucutures.
